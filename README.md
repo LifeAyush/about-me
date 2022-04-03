@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LifeAyush
-- 👀 I’m interested in Machine Learning and Web development
-- 🌱 I’m currently learning ML Algorithms and REACT JS
-- 💞️ I’m looking to collaborate on Machine learning, Deep Learning and NLP projects
+- 👀 I’m interested in Full Stack Web development
+- 🌱 I’m currently learning REACT JS
+- 💞️ I’m looking to collaborate on Front End Development projects
 - 📫 How to reach me ayush_yp@ch.iitr.ac.in
 
 <!---
